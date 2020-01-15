@@ -2,6 +2,9 @@ from selenium.webdriver.common.by import By
 
 
 class TestAjaxForm:
+    print("New code changes")
+    print("New code changes")
+    print("New code changes")
 
     def __init__(self, driver):
         self.driver = driver
